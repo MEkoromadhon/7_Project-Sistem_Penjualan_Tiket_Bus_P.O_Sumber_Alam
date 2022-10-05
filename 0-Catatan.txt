@@ -1,0 +1,9 @@
+Nama : Muhammad Eko Romadhon
+NIM   : 18416255201005
+Email : mekoromad17@gmail.com
+
+Project Akhir Semester 6 (Kuliah) :
+Project ke-7  = Pemrograman Android
+Judul Project = Sistem Penjualan Tiket Bus P.O Sumber Alam
+
+Project ini merupakan sistem yang serupa dengan sistem sebelumnya yaitu sistem yang menggunakan bahasa pemrograman Java Netbeans. Dimana, sistem ini adalah sistem yang telah diperbaharui (Update) menggunakan bahasa pemrograman Android. Sistem Berbasis Android ini banyak fitur-fitur yang telah ditambahkan salah satunya ialah validasi pesanan tiket, riwayat pesanan tiket, form pesan tiket, dsb.
